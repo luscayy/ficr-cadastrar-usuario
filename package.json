@@ -1,0 +1,24 @@
+{
+  "name": "ficr-cadastrar-usuario",
+  "version": "0.1.0",
+  "description": "API de estudo para efetuar cadastro de usuários, utilizando o Heroku como teste.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luscayy/ficr-cadastrar-usuario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luscayy/ficr-cadastrar-usuario/issues"
+  },
+  "homepage": "https://github.com/luscayy/ficr-cadastrar-usuario#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
